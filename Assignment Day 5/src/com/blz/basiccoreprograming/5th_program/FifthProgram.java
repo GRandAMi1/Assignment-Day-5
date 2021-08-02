@@ -13,13 +13,13 @@ public class FifthProgram {
     }
     public static void Factors() {
         int temp = userInput;
-        for (int i = 2; i < userInput/2; i++) {
-            if (temp % i == 0) {
+        for (int i = 2; i < userInput; i++) {
+            while (temp % i == 0) {
                 resultFactors = resultFactors + i + "|";
                 temp = temp / i;
             }
         }
-        if (temp > 2) {
+        if (temp == userInput) {
             System.out.println(userInput + " This is a Prime Number");
         } else {
             System.out.println(resultFactors);
