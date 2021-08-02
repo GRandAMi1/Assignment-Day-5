@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/11th_program/1st_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/11th_program/2nd_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/11th_program/3rd_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/11th_program/4th_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/11th_program/5th_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/10th_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/10th_program_modular" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/11th_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/1st_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/2nd_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/3rd_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/4th_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/5th_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/6th_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/7th_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/8th_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/basiccoreprograming/9th_program" isTestSource="false" packagePrefix="com.blz.basiccoreprograming" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/functionalprogram/1st_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/functionalprogram/2nd_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/functionalprogram/3rd_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/functionalprogram/4th_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment Day 5/src/com/blz/functionalprogram/5th_program" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
