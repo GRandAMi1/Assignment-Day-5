@@ -31,7 +31,9 @@ public class FirstProgram {
         }
         float headPercentages = ((float) H*100/ totalCoinFlips);
         float tailPercentages = ((float) T*100/ totalCoinFlips);
-        System.out.println("Total Number of Heads : "+ headPercentages);
-        System.out.println("Total Number of Tails : "+ tailPercentages);
+        System.out.println("\nTotal Number of Heads : "+ H);
+        System.out.println("Total Number of Tails : "+ T);
+        System.out.println("\nTotal Number of Heads percentages : "+ headPercentages);
+        System.out.println("Total Number of Tails percentages : "+ tailPercentages);
     }
 }
